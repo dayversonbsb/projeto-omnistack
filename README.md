@@ -1,2 +1,2 @@
 # projeto-omnistack
-# Tecnologias usadas: ReactJS, Node.js, React Native e Sqlite (Knex.js)
+# Tecnologias usadas: ReactJS, Node.js, React Native, Sqlite (Knex.js) e Jest para teste automatizados.
